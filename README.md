@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RBViewTool::Renderer.copyright "Rob Brown", "All rights reserved"
+```
 
 ## Development
 
